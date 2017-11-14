@@ -3,3 +3,13 @@
 ################################################################################
 
 /ElectronDemo/ElectronDemo/node_modules
+/ElectronDemo/ElectronDemo/obj/Debug
+/ElectronDemo/ElectronDemo/bin
+/ElectronDemo/.vs
+/ElectronDemo/ElectronDemo/dist
+/ElectronDemo/ElectronDemo/polyfills.js.map
+/ElectronDemo/ElectronDemo/polyfills.js
+/ElectronDemo/ElectronDemo/index.js.map
+/ElectronDemo/ElectronDemo/index.js
+/ElectronDemo/ElectronDemo/app/*.js
+/ElectronDemo/ElectronDemo/app/*.js.map

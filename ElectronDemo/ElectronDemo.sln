@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ElectronDemo", "ElectronDemo\ElectronDemo.njsproj", "{FDF769A9-7EC0-4F14-9266-1D5EBB68736D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF769A9-7EC0-4F14-9266-1D5EBB68736D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF769A9-7EC0-4F14-9266-1D5EBB68736D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF769A9-7EC0-4F14-9266-1D5EBB68736D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF769A9-7EC0-4F14-9266-1D5EBB68736D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613B7ED2-B6FD-413C-A7A0-998B3DB280F3}
+	EndGlobalSection
+EndGlobal

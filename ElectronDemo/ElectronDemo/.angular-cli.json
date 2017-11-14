@@ -1,0 +1,25 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "project": {
+    "name": "electron"
+  },
+  "apps": [
+    {
+      "root": "",
+      "outDir": "dist",
+      "assets": [
+      ],
+      "main": "app/main.ts",
+      "polyfills": "polyfills.ts",
+      "tsconfig": "tsconfig-aot.json",
+      "prefix": "app",
+      "styles": [
+      ],
+      "scripts": []
+    }
+  ],
+  "defaults": {
+    "styleExt": "css",
+    "component": {}
+  }
+}
